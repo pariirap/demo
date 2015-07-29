@@ -1,0 +1,16 @@
+[172.16.2.120] Executing task 'MonitorSwoop'
+[172.16.2.120] run: service swoop status
+[172.16.2.120] out: swoop - is running... (PID 1080)
+[172.16.2.120] out: 
+
+SWOOPMONITOR 172.16.2.120 Swoop server online 2015-07-16 13:03
+[172.16.2.121] Executing task 'MonitorSwoop'
+[172.16.2.121] run: service swoop status
+[172.16.2.121] out: swoop - is running... (PID 1303)
+[172.16.2.121] out: 
+
+SWOOPMONITOR 172.16.2.121 Swoop server online 2015-07-16 13:03
+
+Done.
+Disconnecting from 172.16.2.121... done.
+Disconnecting from 172.16.2.120... done.
